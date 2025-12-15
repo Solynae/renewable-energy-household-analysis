@@ -97,7 +97,7 @@ The results indicate that cost savings are not driven by a single factor, but ra
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Household_Renewable_Energy_Analysis_2024.git
+git clone https://github.com/solynae/Household_Renewable_Energy_Analysis_2024.git
 cd Household_Renewable_Energy_Analysis_2024
 ```
 
