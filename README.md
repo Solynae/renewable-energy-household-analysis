@@ -97,8 +97,8 @@ The results indicate that cost savings are not driven by a single factor, but ra
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/solynae/Household_Renewable_Energy_Analysis_2024.git
-cd Household_Renewable_Energy_Analysis_2024
+git clone https://github.com/solynae/renewable-energy-household-analysis.git
+cd renewable-energy-household-analysis
 ```
 
 ### 2. Install required dependencies
@@ -127,7 +127,7 @@ jupyter notebook
 Then open the file:
 
 ```bash
-finalprojesi2-4.ipynb
+household_renewable_energy_analysis.ipynb
 ```
 
 All analyses, visualizations, and machine learning steps can be found and executed inside this notebook.
@@ -138,7 +138,7 @@ Note: The dataset file (`Renewable_Energy_Usage_Sampled.csv`) must be located in
 
 ## 📁 Project Structure
 ├── Renewable_Energy_Usage_Sampled.csv
-├── finalprojesi2-4.ipynb
+├── household_renewable_energy_analysis.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
